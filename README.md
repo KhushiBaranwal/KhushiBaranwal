@@ -46,7 +46,7 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)]([https://linkedin.com/in/khushi-baranwal](https://www.linkedin.com/in/khushi-baranwal-633105372/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-baranwal-633105372/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?&logo=gmail&logoColor=white)](mailto:khushibaranwal2005@gmail.com)
 
 ---
