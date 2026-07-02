@@ -9,13 +9,10 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech ECE @ Jaypee Institute of Information Technology, Noida (2023–2027)
-- 🧠 Focused on **Machine Learning, Computer Vision, and Generative AI**, built on an Electronics foundation
-- 🛠️ Currently building **MindGuard** — an AI-powered mental health support platform (backend, ML pipeline, risk scoring)
-- 📸 Built a real-time **YOLOv8-based Smart Traffic Signal System** with emergency vehicle prioritization
-- 🌐 Digital Head @ **CICE (Creativity & Innovation Cell in Electronics)**, JIIT Noida
-- 💬 Ask me about Python, Computer Vision, ML pipelines, or FastAPI
-- ⚡ I'm just getting started.
+- 🎓 B.Tech ECE student @ Jaypee Institute of Information Technology, Noida (2023–2027)
+- 🧠 Focused on **Artificial Language, Machine Learning, Computer Vision, and Generative AI**, built on an Electronics foundation
+- 🌐 Digital Head (2025) @ **CICE (Creativity & Innovation Cell in Electronics)**, JIIT Noida
+- ⚡ I'm just getting started, exploring more and more!!
 - See my portfolio @ https://portfolio-hjer9yd5m-khushi-baranwals-projects.vercel.app
 
 ---
