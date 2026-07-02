@@ -16,6 +16,7 @@
 - 🌐 Digital Head @ **CICE (Creativity & Innovation Cell in Electronics)**, JIIT Noida
 - 💬 Ask me about Python, Computer Vision, ML pipelines, or FastAPI
 - ⚡ I'm just getting started.
+- See my portfolio @ https://portfolio-hjer9yd5m-khushi-baranwals-projects.vercel.app
 
 ---
 
