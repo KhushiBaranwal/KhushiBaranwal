@@ -12,7 +12,7 @@
 - 🎓 B.Tech ECE student @ Jaypee Institute of Information Technology, Noida (2023–2027)
 - 🧠 Focused on **Artificial Language, Machine Learning, Computer Vision, and Generative AI**, built on an Electronics foundation
 - 🌐 Digital Head (2025) @ **CICE (Creativity & Innovation Cell in Electronics)**, JIIT Noida
-- ⚡ I'm just getting started, exploring more and more!!
+- ⚡Getting started, staying curious. Not lost, just brewing my cup of tea.
 - See my portfolio @ https://portfolio-hjer9yd5m-khushi-baranwals-projects.vercel.app
 
 ---
